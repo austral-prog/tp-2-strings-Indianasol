@@ -79,4 +79,4 @@ def ficha():
     
     print("=" * 24)
     
-ficha()
+
